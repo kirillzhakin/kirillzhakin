@@ -10,12 +10,12 @@
 ### Мой стек
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-172F45?style=for-the-badge&logo=JavaScript)
-![REACT](https://img.shields.io/badge/React-172F45?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REACT](https://img.shields.io/badge/React-172F45?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/HTML-172F45?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-172F45?style=for-the-badge&logo=css3)
-![NODE.JS](https://img.shields.io/badge/Node.js-172F45?style=for-the-badge&logo=node.js&logoColor=white)
-![MONGODB](https://img.shields.io/badge/MongoDB-172F45?style=for-the-badge&logo=mongodb&logoColor=white)
-![EXPRESS.JS](https://img.shields.io/badge/Express-172F45?style=for-the-badge&logo=express&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/Node.js-172F45?style=for-the-badge&logo=node.js)
+![MONGODB](https://img.shields.io/badge/MongoDB-172F45?style=for-the-badge&logo=mongodb)
+![EXPRESS.JS](https://img.shields.io/badge/Express-172F45?style=for-the-badge&logo=express)
 
 ### Соцсети
 
