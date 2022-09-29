@@ -9,17 +9,17 @@
 
 ### Мой стек
 
-![JavaScript](https://img.shields.io/badge/JavaScript-22262e?style=for-the-badge&logo=JavaScript)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-22262e?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-22262e?style=for-the-badge&logo=css3)
-![NODE.JS](https://img.shields.io/badge/Node.js-22262e?style=for-the-badge&logo=node.js&logoColor=white)
-![MONGODB](https://img.shields.io/badge/MongoDB-22262e?style=for-the-badge&logo=mongodb&logoColor=white)
-![EXPRESS.JS](https://img.shields.io/badge/Express-22262e?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-172F45?style=for-the-badge&logo=JavaScript)
+![REACT](https://img.shields.io/badge/React-172F45?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-172F45?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-172F45?style=for-the-badge&logo=css3)
+![NODE.JS](https://img.shields.io/badge/Node.js-172F45?style=for-the-badge&logo=node.js&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-172F45?style=for-the-badge&logo=mongodb&logoColor=white)
+![EXPRESS.JS](https://img.shields.io/badge/Express-172F45?style=for-the-badge&logo=express&logoColor=white)
 
 ### Соцсети
 
-[![TELEGRAM](https://img.shields.io/badge/telegram-22262e?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirillzhakin)
+[![TELEGRAM](https://img.shields.io/badge/telegram-172F45?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirillzhakin)
 
 ### Статистика
 
