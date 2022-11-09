@@ -14,8 +14,9 @@
 ![HTML](https://img.shields.io/badge/HTML-172F45?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-172F45?style=for-the-badge&logo=css3)
 ![NODE.JS](https://img.shields.io/badge/Node.js-172F45?style=for-the-badge&logo=node.js)
-![MONGODB](https://img.shields.io/badge/MongoDB-172F45?style=for-the-badge&logo=mongodb)
 ![EXPRESS.JS](https://img.shields.io/badge/Express-172F45?style=for-the-badge&logo=express)
+![MONGODB](https://img.shields.io/badge/MongoDB-172F45?style=for-the-badge&logo=mongodb)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-172F45?style=for-the-badge&logo=postgresql)
 
 ### Соцсети
 
@@ -26,6 +27,6 @@
 <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="120"  src="https://github-readme-stats.vercel.app/api?username=kirillzhakin&show_icons=true&theme=prussian&hide=contribs" />
 </a>      
-<a href="https://github.com/anuraghazra/convoychat">
+<a  href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="120"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillzhakin&layout=compact&theme=prussian" />
 </a>
