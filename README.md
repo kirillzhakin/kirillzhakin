@@ -1,8 +1,6 @@
-![Header](../kirillzhakin/velo.gif "Header")
+![Header](./velo.gif "Header")
 
 ## Привет всем!
-
----
 
 #### Меня зовут Кирилл и я Frontend разработчик!
 
@@ -29,7 +27,7 @@
 
 [![TELEGRAM](https://img.shields.io/badge/telegram-172F45?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirillzhakin)
 
-### &#x1f4c8; Статистика
+### Статистика
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="120"  src="https://github-readme-stats.vercel.app/api?username=kirillzhakin&show_icons=true&theme=prussian&hide=contribs" />
