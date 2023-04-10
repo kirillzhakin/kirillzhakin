@@ -1,4 +1,4 @@
-![Header](../kirillzhakin/velo.gif "Header")
+![Header](./velo.gif "Header")
 
 ## Привет всем!
 
