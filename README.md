@@ -27,6 +27,10 @@
 
 [![TELEGRAM](https://img.shields.io/badge/telegram-172F45?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirillzhakin)
 
+### Codewars
+
+[![Codewars](https://www.codewars.com/users/kirillzhakin/badges/micro)](https://www.codewars.com/users/kirillzhakin)
+
 ### Статистика
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
